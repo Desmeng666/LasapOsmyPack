@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§l§bOsmy §6Practice",
+    "description": "§7Offical Pack Of Osmy Practice",
+    "uuid": "5a2ace99-0888-f328-09c9-22389f162bd9",
+    "version": [
+      1,
+      1,
+      5
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "40f43bd4-5539-7782-43a0-0fbdc5f28cb6",
+      "version": [
+        1,
+        0,
+        2
+      ]
+    }
+  ]
+}
